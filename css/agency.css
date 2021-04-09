@@ -173,7 +173,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("https://source.unsplash.com/KKJj8Hz6_kA");
+  background-image: url("https://source.unsplash.com/N5wztdfwxS0");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -199,7 +199,7 @@ header.masthead .intro-text .intro-heading {
   line-height: 50px;
   margin-bottom: 25px;
   font-family: 'Roboto Slab', serif;
-
+}
 @media (min-width: 768px) {
   header.masthead .intro-text {
     padding-top: 300px;
