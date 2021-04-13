@@ -14,15 +14,15 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #0b86f3;
 }
 
 a:hover {
-  color: #fec503;
+  color: #0b86f3;
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #0b86f3 !important;
 }
 
 h1,
@@ -61,12 +61,12 @@ h6 {
 }
 
 ::-moz-selection {
-  background: #fed136;
+  background: #0b86f3;
   text-shadow: none;
 }
 
 ::selection {
-  background: #fed136;
+  background: #0b86f3;
   text-shadow: none;
 }
 
@@ -118,7 +118,7 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: #fed136;
+  background-color: #0b86f3;
   font-family: 'Roboto Slab', serif;
 }
 
@@ -219,6 +219,11 @@ header.masthead .intro-text .intro-heading {
     margin-bottom: 50px;
     font-family: 'Roboto Slab', serif;
   }
+}
+
+blockquote {
+  font-style: italic;
+  color: #482f87;
 }
 
 .service-heading {
@@ -441,7 +446,7 @@ header.masthead .intro-text .intro-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color: #0b86f3;
 }
 
 .timeline > li .timeline-image h4 {
@@ -612,7 +617,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-  border-color: #fed136;
+  border-color: #0b86f3;
   box-shadow: none;
 }
 
@@ -672,9 +677,9 @@ ul.social-buttons li a {
   color: white;
   border-radius: 100%;
   outline: none;
-  background-color: #212529;
+  background-color: #0b86f3;
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #fed136;
+  background-color: #0b86f3;
 }
